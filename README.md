@@ -2,7 +2,7 @@ I am just some dude trying to better my knowledge in a few areas such as general
 
 Currently mostly focusing on projects in Python and some private ones in C.
 
-If you need to contact me: salad.devel@gmail.com
+If you need to contact me: boddz.dev@gmail.com
 
 <!---
 sa-lad/sa-lad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
-I am just some dude trying to better my knowledge in a few areas such as general Linux/BSD use and a few programming languages.
+I am just trying to better my knowledge in a few areas such as general Linux/BSD use and a few programming languages.
 
-Currently mostly focusing on projects in Python and some private ones in C.
+Currently mostly focusing on projects in Python and some in C.
 
 If you need to contact me: boddz.dev@gmail.com
 
